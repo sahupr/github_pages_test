@@ -14,6 +14,7 @@
           "builder": "@angular-devkit/build-angular:application",
           "options": {
             "outputPath": "dist/angular-cli",
+            "baseHref": "/github_pages_test/",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
